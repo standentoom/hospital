@@ -1,2 +1,1 @@
-# hospital
-de hostpital opdracht van leerjaar 1 van het da vinci collage in gorichem
+Vergeet niet de config.php voor gebruik aan te passen aan jouw AMPPS omgeving.
